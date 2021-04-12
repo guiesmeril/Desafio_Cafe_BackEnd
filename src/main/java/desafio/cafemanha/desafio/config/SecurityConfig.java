@@ -13,4 +13,4 @@ public class SecurityConfig implements WebMvcConfigurer {
             .allowedOrigins("https://desafio-front-cafe.herokuapp.com")
             .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS", "HEAD", "TRACE", "CONNECT");
     }
-}
+} 
